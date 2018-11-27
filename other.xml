@@ -1,0 +1,70 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Program Files\Python36\python.exe" value="false" />
+        <entry key="D:\repositories\git\snipsWebAdmin\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.116:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebathroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicecamera:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicescreen:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@octoprint:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-1:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python3" value="false" />
+        <entry key="sftp://pi@raspberrypi-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsparrot:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Program Files\Python36\python.exe" value="false" />
+        <entry key="D:\repositories\git\snipsWebAdmin\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.116:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebathroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicecamera:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicescreen:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="true" />
+        <entry key="sftp://pi@octoprint:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-1:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python3" value="false" />
+        <entry key="sftp://pi@raspberrypi-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsparrot:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Program Files\Python36\python.exe" value="false" />
+        <entry key="D:\repositories\git\snipsWebAdmin\venv\Scripts\python.exe" value="false" />
+        <entry key="sftp://pi@192.168.1.116:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebathroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicebedroom:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicecamera:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicescreen:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@alicevelux:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@octoprint:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-1:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-2:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@projectalice:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@raspberrypi-3:22/usr/bin/python3" value="false" />
+        <entry key="sftp://pi@raspberrypi-5:22/usr/bin/python" value="false" />
+        <entry key="sftp://pi@snipsparrot:22/usr/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>

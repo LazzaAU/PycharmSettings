@@ -1,0 +1,686 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicebedroom:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicebedroom:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-1227933812" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_MCP9808-1.5.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_GPIO-1.0.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_PureIO-0.2.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1450284116" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1e55d018-2b8c-4e62-9e91-cf83561e0ae5" WEB_SERVER_CONFIG_NAME="Project Alice - Bedroom" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicebedroom:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1450284116/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_MCP9808-1.5.3-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_MCP9808-1.5.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_GPIO-1.0.3-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_GPIO-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/Adafruit_PureIO-0.2.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_PureIO-0.2.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1450284116/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1450284116/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@projectalice-3:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@projectalice-3:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/324916077" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1971575043" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="36783ab4-ab9e-43cb-a1c7-c38761e2b81c" WEB_SERVER_CONFIG_NAME="Project Alice - Core" WEB_SERVER_CREDENTIALS_ID="sftp://pi@projectalice-3:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.13">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/324916077" remote-root="/usr/local/lib/python2.7/dist-packages/snowboy-1.3.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1127103172/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1127103172/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1971575043/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1971575043/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.3/system/remote_sources/-1971575043/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicescreen:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicescreen:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-1227933812" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/Adafruit_GPIO-1.0.3-py2.7.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/Adafruit_PureIO-0.2.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1602561540" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="8f61f763-5ad6-4ad0-acad-230398889b30" WEB_SERVER_CONFIG_NAME="Project Alice - Screen" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicescreen:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/1602561540/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/Adafruit_GPIO-1.0.3-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_GPIO-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1602561540/Adafruit_PureIO-0.2.1-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_PureIO-0.2.1-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicebedroom-2:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicebedroom-2:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-1227933812" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/Adafruit_GPIO-1.0.3-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/1462701372" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg!/" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/Adafruit_BMP-1.5.4-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1357814767" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="1e55d018-2b8c-4e62-9e91-cf83561e0ae5" WEB_SERVER_CONFIG_NAME="Project Alice - Bedroom" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicebedroom-2:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-1357814767/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/Adafruit_GPIO-1.0.3-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_GPIO-1.0.3-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg" remote-root="/usr/local/lib/python2.7/dist-packages/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1357814767/Adafruit_BMP-1.5.4-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_BMP-1.5.4-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicevelux:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicevelux:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/1727478806" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/23257574" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-250167344" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="a0e36506-fef5-4c37-8b35-69284a1f7ecb" WEB_SERVER_CONFIG_NAME="Project Alice - Velux" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicevelux:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/1727478806" remote-root="/usr/lib/python2.7/dist-packages/PILcompat" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.3/system/remote_sources/-250167344/23257574" remote-root="/usr/lib/python2.7/dist-packages/gtk-2.0" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-250167344/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-250167344/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicebathroom:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicebathroom:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1886187110" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="63c8c043-b75f-4648-8ffc-8c2084debd85" WEB_SERVER_CONFIG_NAME="pi@alicebathroom:22" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicebathroom:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1886187110/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@snipsparrot:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@snipsparrot:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/1965029151" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="e55494ae-cd3b-47ae-be9b-362b16fcacaa" WEB_SERVER_CONFIG_NAME="Snips Parrot" WEB_SERVER_CREDENTIALS_ID="sftp://pi@snipsparrot:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/1965029151/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@alicecamera:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@alicecamera:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1141027715" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="5c537901-bcbb-4373-b5d3-c21113097b24" WEB_SERVER_CONFIG_NAME="Project Alice - Camera" WEB_SERVER_CREDENTIALS_ID="sftp://pi@alicecamera:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.1/system/remote_sources/-1141027715/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (snipsWebAdmin)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="D:\repositories\git\snipsWebAdmin\venv\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://C:/Program Files/Python36/DLLs" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib" type="simple" />
+            <root url="file://C:/Program Files/Python36" type="simple" />
+            <root url="file://D:/repositories/git/snipsWebAdmin/venv" type="simple" />
+            <root url="file://D:/repositories/git/snipsWebAdmin/venv/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://C:/Program Files/Python36/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.1/system/python_stubs/-1007264367" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="D:/repositories/git/snipsWebAdmin" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@raspberrypi-5:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@raspberrypi-5:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-1227933812" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1398194557" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="a8d8aae7-0abb-4f47-b6ea-7758ca695105" WEB_SERVER_CONFIG_NAME="Project Alice - Living room" WEB_SERVER_CREDENTIALS_ID="sftp://pi@raspberrypi-5:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg" remote-root="/usr/local/lib/python2.7/dist-packages/rpi_ws281x-1.0.0-py2.7-linux-armv6l.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1398194557/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@octoprint:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@octoprint:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/1462701372" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-1227933812" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/rpi_ws281x-1.0.0-py2.7-linux-armv7l.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-125940560" type="simple" />
+            <root url="jar://$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/Adafruit_SSD1306-1.6.2-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1279423402" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="d2631522-ab00-4eb9-b7fc-8fd00c5a2783" WEB_SERVER_CONFIG_NAME="PsychOctoprint" WEB_SERVER_CREDENTIALS_ID="sftp://pi@octoprint:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/1462701372" remote-root="/home/pi/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/rpi_ws281x-1.0.0-py2.7-linux-armv7l.egg" remote-root="/usr/local/lib/python2.7/dist-packages/rpi_ws281x-1.0.0-py2.7-linux-armv7l.egg" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/-1279423402/Adafruit_SSD1306-1.6.2-py2.7.egg" remote-root="/usr/local/lib/python2.7/dist-packages/Adafruit_SSD1306-1.6.2-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.13 (sftp://pi@raspberrypi-3:22/usr/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.13" />
+      <homePath value="sftp://pi@raspberrypi-3:22/usr/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/201544331" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/719674475" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-154863933" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-1227933812" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-125940560" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/290749185" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="92c2f6e5-ca97-411d-ac31-5b5a7fd29d3c" WEB_SERVER_CONFIG_NAME="raspberrypi-3" WEB_SERVER_CREDENTIALS_ID="sftp://pi@raspberrypi-3:22" INTERPRETER_PATH="/usr/bin/python" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/201544331" remote-root="/usr/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/719674475" remote-root="/usr/lib/python2.7/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-154863933" remote-root="/usr/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-1227933812" remote-root="/usr/local/lib/python2.7/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/290749185/-125940560" remote-root="/usr/lib/python2.7/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.5.3 (sftp://pi@raspberrypi-3:22/usr/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.3" />
+      <homePath value="sftp://pi@raspberrypi-3:22/usr/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/201545290" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/402898316" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/-1171821208" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/1405239563" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/423290194" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="92c2f6e5-ca97-411d-ac31-5b5a7fd29d3c" WEB_SERVER_CONFIG_NAME="raspberrypi-3" WEB_SERVER_CREDENTIALS_ID="sftp://pi@raspberrypi-3:22" INTERPRETER_PATH="/usr/bin/python3" HELPERS_PATH="/home/pi/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/201545290" remote-root="/usr/lib/python3.5" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/402898316" remote-root="/usr/lib/python3.5/plat-arm-linux-gnueabihf" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/-1171821208" remote-root="/usr/lib/python3/dist-packages" />
+              <mapping local-root="$USER_HOME$/.PyCharm2018.2/system/remote_sources/423290194/1405239563" remote-root="/usr/local/lib/python3.5/dist-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="C:\Users\Psychokiller1888\AppData\Local\Programs\Python\Python36-32\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1952076441" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
