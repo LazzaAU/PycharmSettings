@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d1ff0d87-67d7-4eb8-96e8-352b8f4189b0" name="Copy of project-level server 'aliceparis'" url="http://aliceparis">
+        <fileTransfer host="aliceparis" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
