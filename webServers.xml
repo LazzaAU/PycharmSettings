@@ -1,6 +1,46 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="0ad7da84-6ca0-4724-b499-83431a2a7e34" name="Paris - Alice" url="http://192.168.0.107">
+        <fileTransfer host="192.168.0.107" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4db9e7eb-fe53-49dd-867a-48377d52c13f" name="Project Alice - Core" url="http://projectalice-3">
+        <fileTransfer host="projectalice-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8ddc4ef-1093-4554-9d63-1491277090a6" name="Project Alice - Bedroom" url="http://alicebedroom-3">
+        <fileTransfer host="alicebedroom-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bdc24f19-3f38-4234-b022-9cde694c8e65" name="Project Alice - Living room" url="http://alicelivingroom">
+        <fileTransfer host="alicelivingroom" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7d95fd42-0f31-467c-b957-4babcebccf28" name="Project Alice - Office" url="http://aliceoffice">
+        <fileTransfer host="aliceoffice" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="763ba9ba-b6fb-4f29-8a86-3fd2b7a7121d" name="Copy of project-level server 'Project Alice - Core'" url="http://projectalice-3">
         <fileTransfer host="projectalice-3" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
@@ -26,5 +66,15 @@
         </fileTransfer>
       </webServer>
     </option>
+    <groups>
+      <group>
+        <name>Project Alice satellites</name>
+        <servers>
+          <name value="Project Alice - Bedroom" />
+          <name value="Project Alice - Living room" />
+          <name value="Project Alice - Office" />
+        </servers>
+      </group>
+    </groups>
   </component>
 </application>
