@@ -17,6 +17,38 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="7d95fd42-0f31-467c-b957-4babcebccf28" name="Project Alice - Office" url="http://aliceoffice">
+        <fileTransfer host="aliceoffice" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="e8ddc4ef-1093-4554-9d63-1491277090a6" name="Project Alice - Bedroom" url="http://alicebedroom-3">
+        <fileTransfer host="alicebedroom-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bdc24f19-3f38-4234-b022-9cde694c8e65" name="Project Alice - Living room" url="http://alicelivingroom">
+        <fileTransfer host="alicelivingroom" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2d67f8fc-9160-46cc-aac8-c8c2ffd8368a" name="Project Alice - Velux" url="http://alicevelux-3">
+        <fileTransfer host="alicevelux-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
