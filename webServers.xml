@@ -9,8 +9,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="4db9e7eb-fe53-49dd-867a-48377d52c13f" name="Project Alice - Core" url="http://projectalice-3">
-        <fileTransfer host="projectalice-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+      <webServer id="4db9e7eb-fe53-49dd-867a-48377d52c13f" name="Project Alice - Core" url="http://projectalice-5">
+        <fileTransfer host="projectalice-5" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
