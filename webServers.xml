@@ -41,14 +41,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="763ba9ba-b6fb-4f29-8a86-3fd2b7a7121d" name="Copy of project-level server 'Project Alice - Core'" url="http://projectalice-3">
-        <fileTransfer host="projectalice-3" port="22" rootFolder="/home/pi" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="d1ff0d87-67d7-4eb8-96e8-352b8f4189b0" name="Copy of project-level server 'aliceparis'" url="http://aliceparis">
         <fileTransfer host="aliceparis" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
