@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="283bdbe4-790e-43f5-b4ee-b3323ecd8961" name="Respeaker Core V2" url="http://v2">
+        <fileTransfer host="v2" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="0ad7da84-6ca0-4724-b499-83431a2a7e34" name="Paris - Alice" url="http://192.168.0.107">
         <fileTransfer host="192.168.0.107" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
