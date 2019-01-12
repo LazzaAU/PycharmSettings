@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="283bdbe4-790e-43f5-b4ee-b3323ecd8961" name="Respeaker Core V2" url="http://v2">
-        <fileTransfer host="v2" port="22" rootFolder="/home/pi" accessType="SFTP">
+        <fileTransfer host="v2" port="22" rootFolder="/home/respeaker" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
