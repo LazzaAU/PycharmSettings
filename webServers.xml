@@ -1,0 +1,40 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="66672dba-890e-4071-ab59-8def95cb7f25" name="Alice - Office" url="http://aliceoffice">
+        <fileTransfer host="aliceoffice" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ebe851e8-0263-4c99-9be1-3c204ba809a4" name="Alice - Bedroom" url="http://alicebedroom-3">
+        <fileTransfer host="alicebedroom-3" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="a26f677d-a36c-46bd-8fed-8e71ea174d32" name="Alice - Living room" url="http://alicelivingroom">
+        <fileTransfer host="alicelivingroom" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>Alice satellites</name>
+        <servers>
+          <name value="Alice - Office" />
+          <name value="Alice - Bedroom" />
+          <name value="Alice - Living room" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</application>
