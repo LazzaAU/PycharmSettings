@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0dd752d0-2273-4fc9-adbd-2431f5a09efc" name="Copy of project-level server 'Alice - Velux'" url="http://alicevelux">
+        <fileTransfer host="alicevelux" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
