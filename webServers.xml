@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e8c15be5-a2ed-4573-b8d5-5190d4bb989a" name="Alice - Second room" url="http://192.168.1.160">
+        <fileTransfer host="192.168.1.160" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
@@ -33,6 +41,7 @@
           <name value="Alice - Office" />
           <name value="Alice - Bedroom" />
           <name value="Alice - Living room" />
+          <name value="Alice - Second room" />
         </servers>
       </group>
     </groups>
