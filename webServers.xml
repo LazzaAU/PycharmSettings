@@ -49,6 +49,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="9a0bb7f4-de17-4bab-a356-4f691b026c02" name="SnipsFlower" url="http://snipsflower">
+        <fileTransfer host="snipsflower" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
