@@ -54,7 +54,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="188b44bb-1fd3-4900-865a-316396624ca7" name="pi@192.168.1.154:22" url="http:///">
+      <webServer id="188b44bb-1fd3-4900-865a-316396624ca7" name="pi@192.168.1.154:22 (1)" url="http:///">
         <fileTransfer host="192.168.1.154" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
