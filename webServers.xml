@@ -59,6 +59,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="c4ee3a8f-d652-40b2-9abe-d8df17d5bb3f" name="Copy of project-level server 'Project Alice - Core dev'" url="http://192.168.1.127">
+        <fileTransfer host="192.168.1.127" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
