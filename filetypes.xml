@@ -12,7 +12,6 @@
       <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="fifo" type="PLAIN_TEXT" />
       <mapping pattern="module" type="Python" />
       <mapping pattern="netatmo" type="Python" />
