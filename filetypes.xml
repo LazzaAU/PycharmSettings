@@ -15,6 +15,7 @@
       <mapping ext="fifo" type="PLAIN_TEXT" />
       <mapping pattern="module" type="Python" />
       <mapping pattern="netatmo" type="Python" />
+      <mapping ext="back" type="Python" />
     </extensionMap>
   </component>
 </application>
