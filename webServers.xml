@@ -55,7 +55,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="188b44bb-1fd3-4900-865a-316396624ca7" name="pi@192.168.1.154:22 (1)" url="http:///">
-        <fileTransfer host="192.168.1.154" port="22" accessType="SFTP">
+        <fileTransfer host="192.168.1.150" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
@@ -64,6 +64,11 @@
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4337cf59-4a39-41d3-a11d-286c2c2e9f64" name="pi@192.168.1.164:22" url="http:///">
+        <fileTransfer host="192.168.1.164" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
