@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="b42824f7-01fa-4ba6-983b-3b09066f2b43" name="Project Alice - Core dev" url="http://192.168.1.127">
+        <fileTransfer host="192.168.1.127" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="e8f773e6-48a2-45c4-8bce-061cdc4fa571" name="SnipsPot" url="http://192.168.1.138">
         <fileTransfer host="192.168.1.138" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
