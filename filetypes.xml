@@ -11,11 +11,12 @@
       <mapping pattern="data" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
+      <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="fifo" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="db" type="PLAIN_TEXT" />
       <mapping pattern="module" type="Python" />
       <mapping pattern="netatmo" type="Python" />
       <mapping ext="back" type="Python" />
