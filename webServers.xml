@@ -80,6 +80,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ba0b0c9c-d145-4d65-8223-2a1efc893734" name="pi@192.168.1.127:22" url="http:///">
+        <fileTransfer host="192.168.1.127" port="22" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
