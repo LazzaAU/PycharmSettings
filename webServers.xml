@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b42824f7-01fa-4ba6-983b-3b09066f2b43" name="Project Alice - Core dev" url="http://192.168.1.127">
-        <fileTransfer host="192.168.1.127" port="22" rootFolder="/home/pi" accessType="SFTP">
+        <fileTransfer host="192.168.1.127" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -63,7 +63,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="188b44bb-1fd3-4900-865a-316396624ca7" name="Matrix Creator" url="http:///">
-        <fileTransfer host="192.168.1.154" port="22" rootFolder="/home/pi" accessType="SFTP">
+        <fileTransfer host="192.168.1.154" port="22" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
