@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b42824f7-01fa-4ba6-983b-3b09066f2b43" name="Project Alice - Core dev" url="http://192.168.1.127">
-        <fileTransfer host="192.168.1.127" port="22" accessType="SFTP">
+        <fileTransfer host="192.168.1.127" port="22" rootFolder="/home/pi/" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
