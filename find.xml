@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...Modules\Tools\JsonValidator [ProjectAliceModules]'" />
-    <option name="defaultScopeName" value="Directory '...Modules\Tools\JsonValidator [ProjectAliceModules]'" />
+    <option name="customScope" value="Directory '...\core [ProjectAliceModules]'" />
+    <option name="defaultScopeName" value="Directory '...\core [ProjectAliceModules]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...Modules\Tools\JsonValidator [ProjectAliceModules]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\core [ProjectAliceModules]'" />
   </component>
 </application>
