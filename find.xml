@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\core [ProjectAlice]'" />
-    <option name="defaultScopeName" value="Directory '...\core [ProjectAlice]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\core [ProjectAlice]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
