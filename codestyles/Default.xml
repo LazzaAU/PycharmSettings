@@ -3,7 +3,11 @@
   <Python>
     <option name="SPACE_AROUND_EQ_IN_NAMED_PARAMETER" value="true" />
     <option name="BLANK_LINES_BEFORE_FIRST_METHOD" value="1" />
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
     <option name="DICT_ALIGNMENT" value="2" />
+    <option name="DICT_NEW_LINE_AFTER_LEFT_BRACE" value="true" />
+    <option name="DICT_NEW_LINE_BEFORE_RIGHT_BRACE" value="true" />
+    <option name="BLANK_LINES_AFTER_LOCAL_IMPORTS" value="1" />
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
     <option name="OPTIMIZE_IMPORTS_JOIN_FROM_IMPORTS_WITH_SAME_SOURCE" value="true" />
     <option name="FROM_IMPORT_WRAPPING" value="0" />
