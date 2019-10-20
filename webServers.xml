@@ -85,6 +85,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0ad8578a-b807-4450-8127-49b8b54ad63e" name="ProjectAlice - Bel-Air" url="http://192.168.2.188">
+        <fileTransfer host="192.168.2.188" port="22" rootFolder="/home/pi/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
