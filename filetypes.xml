@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.json*" type="JSON" />
       <mapping ext="dist" type="JSON" />
+      <mapping ext="schema" type="JSON" />
       <mapping ext="install" type="JSON" />
       <mapping pattern="configtest" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
