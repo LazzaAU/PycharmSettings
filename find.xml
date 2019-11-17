@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...Modules\PublishedModules\Psychokiller1888\PhilipsHue\libraries\phue.py [ProjectAliceModules]'" />
-    <option name="defaultScopeName" value="File '...Modules\PublishedModules\Psychokiller1888\PhilipsHue\libraries\phue.py [ProjectAliceModules]'" />
-    <option name="SEARCH_SCOPE" value="File '...Modules\PublishedModules\Psychokiller1888\PhilipsHue\libraries\phue.py [ProjectAliceModules]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
