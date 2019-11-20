@@ -93,6 +93,11 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5544dce5-1efd-45af-8f18-20a60f9a430c" name="ProjectAliceBuster" url="http:///">
+        <fileTransfer host="192.168.1.168" port="22" rootFolder="/home/pi" accessType="SFTP">
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
     <groups>
       <group>
