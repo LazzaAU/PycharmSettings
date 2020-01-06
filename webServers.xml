@@ -9,14 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="e8f773e6-48a2-45c4-8bce-061cdc4fa571" name="SnipsPot" url="http://192.168.1.138">
-        <fileTransfer host="192.168.1.138" port="22" rootFolder="/home/pi" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="66672dba-890e-4071-ab59-8def95cb7f25" name="Alice - Office" url="http://aliceoffice">
         <fileTransfer host="aliceoffice" port="22" rootFolder="/home/pi" accessType="SFTP">
           <advancedOptions>
@@ -49,29 +41,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="0dd752d0-2273-4fc9-adbd-2431f5a09efc" name="Copy of project-level server 'Alice - Velux'" url="http://alicevelux">
-        <fileTransfer host="alicevelux" port="22" rootFolder="/home/pi" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="14ba1789-05f5-4edb-bc5d-18ee3c94d4f8" name="pi@192.168.1.154:22" url="http:///">
-        <fileTransfer host="192.168.1.154" port="22" rootFolder="/home/pi" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="188b44bb-1fd3-4900-865a-316396624ca7" name="Matrix Creator" url="http:///">
         <fileTransfer host="192.168.1.154" port="22" accessType="SFTP">
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c4ee3a8f-d652-40b2-9abe-d8df17d5bb3f" name="Copy of project-level server 'Project Alice - Core dev'" url="http://192.168.1.127">
-        <fileTransfer host="192.168.1.127" port="22" rootFolder="/home/pi" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
