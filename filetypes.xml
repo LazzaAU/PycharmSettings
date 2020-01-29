@@ -5,6 +5,7 @@
       <mapping ext="install" type="JSON" />
       <mapping ext="schema" type="JSON" />
       <mapping ext="dist" type="JSON" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="configtest" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
