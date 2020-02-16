@@ -1,6 +1,22 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
   <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="myValues">
+      <value>
+        <list size="7">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+          <item index="6" class="java.lang.String" itemvalue="widgetname" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
   <inspection_tool class="JSEqualityComparisonWithCoercion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSIgnoredPromiseFromCall" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -19,7 +35,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="35">
+        <list size="28">
           <item index="0" class="java.lang.String" itemvalue="hermes-python" />
           <item index="1" class="java.lang.String" itemvalue="RPi.GPIO" />
           <item index="2" class="java.lang.String" itemvalue="smbus" />
@@ -48,13 +64,6 @@
           <item index="25" class="java.lang.String" itemvalue="flask" />
           <item index="26" class="java.lang.String" itemvalue="googletrans" />
           <item index="27" class="java.lang.String" itemvalue="terminaltables" />
-          <item index="28" class="java.lang.String" itemvalue="selenium" />
-          <item index="29" class="java.lang.String" itemvalue="python-dateutil" />
-          <item index="30" class="java.lang.String" itemvalue="requests" />
-          <item index="31" class="java.lang.String" itemvalue="flask-socketio" />
-          <item index="32" class="java.lang.String" itemvalue="numpy" />
-          <item index="33" class="java.lang.String" itemvalue="pyjwt" />
-          <item index="34" class="java.lang.String" itemvalue="google-cloud-speech" />
         </list>
       </value>
     </option>
@@ -71,6 +80,7 @@
     <option name="ignoredIdentifiers">
       <list>
         <option value="__future__.*" />
+        <option value="google.cloud.speech_v1.types.StreamingRecognitionConfig" />
       </list>
     </option>
   </inspection_tool>
