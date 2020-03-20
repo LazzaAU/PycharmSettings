@@ -85,6 +85,7 @@
       <list>
         <option value="__future__.*" />
         <option value="google.cloud.speech_v1.types.StreamingRecognitionConfig" />
+        <option value="property.setter" />
       </list>
     </option>
   </inspection_tool>
