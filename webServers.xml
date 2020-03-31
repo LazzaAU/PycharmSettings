@@ -70,7 +70,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="2e550e91-321d-413f-a5b7-66f9b41ee4ac" name="pi@192.168.1.154:22" url="http:///">
-        <fileTransfer host="192.168.1.154" port="22" rootFolder="/home/pi" accessType="SFTP">
+        <fileTransfer host="192.168.1.160" port="22" rootFolder="/home/pi" accessType="SFTP">
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
