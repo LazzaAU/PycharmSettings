@@ -3,7 +3,7 @@
     <property name="created">2020-04-03T08:28:34</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-03T09:06:52</property>
+    <property name="modified">2020-04-03T09:22:55</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
@@ -28,6 +28,11 @@
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="34af17" />
+      </value>
+    </option>
+    <option name="DEFAULT_COMMA">
+      <value>
+        <option name="FOREGROUND" value="c60b05" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
