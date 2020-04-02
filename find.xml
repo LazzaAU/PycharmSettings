@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'OvenTemperatureConversion'" />
-    <option name="defaultScopeName" value="Project 'OvenTemperatureConversion'" />
+    <option name="customScope" value="Project 'ProjectAliceSatellite'" />
+    <option name="defaultScopeName" value="Project 'ProjectAliceSatellite'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'OvenTemperatureConversion'" />
+    <option name="SEARCH_SCOPE" value="Project 'ProjectAliceSatellite'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
