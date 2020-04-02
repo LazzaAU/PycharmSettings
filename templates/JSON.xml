@@ -14,4 +14,9 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="talkDef" value="&quot;respondWithSomething&quot;: [&#10;&#9;&quot;I'm text that Alice will respond with&quot;,&#10;&#9;&quot;You said {} &quot;&#10;  ]" description="Add talk code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
