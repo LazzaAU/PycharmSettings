@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="*.json*" type="JSON" />
-      <mapping ext="dist" type="JSON" />
-      <mapping ext="schema" type="JSON" />
       <mapping ext="install" type="JSON" />
-      <mapping pattern="configtest" type="PLAIN_TEXT" />
+      <mapping ext="schema" type="JSON" />
+      <mapping ext="dist" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="configtest" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="*.py.dist" type="Python" />
       <mapping ext="test" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
