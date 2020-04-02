@@ -1,12 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Alice2NR'" />
-    <option name="defaultScopeName" value="Project 'Alice2NR'" />
-    <option name="localRegularExpressions" value="true" />
+    <option name="customScope" value="Project 'ProjectAliceSatellite'" />
+    <option name="defaultScopeName" value="Project 'ProjectAliceSatellite'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Alice2NR'" />
+    <option name="SEARCH_SCOPE" value="Project 'ProjectAliceSatellite'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
