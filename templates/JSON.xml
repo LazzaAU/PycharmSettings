@@ -14,7 +14,7 @@
       <option name="JSON" value="true" />
     </context>
   </template>
-  <template name="talkDef" value="&quot;respondWithSomething&quot;: [&#10;&#9;&quot;I'm text that Alice will respond with&quot;,&#10;&#9;&quot;You said {} &quot;&#10;  ]" description="Add talk code" toReformat="false" toShortenFQNames="true">
+  <template name="talkDef" value="&quot;respondReminderMessage&quot;: {&#10;&#9;&#9;&quot;default&quot;: [&#10;&#9;&#9;&#9;&quot;What message would you like me to remind you with&quot;,&#10;&#9;&#9;&#9;&quot;What topic would you like me to call this &quot;&#10;&#9;&#9;],&#10;&#9;&#9;&quot;short&quot;: [&#10;&#9;&#9;&#9;&quot;whats the message!&quot;,&#10;&#9;&#9;&#9;&quot;what's the reminder&quot;&#10;&#9;&#9;]&#10;&#9;}" description="Add talk code" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSON" value="true" />
     </context>
