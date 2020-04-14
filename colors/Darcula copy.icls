@@ -3,10 +3,11 @@
     <property name="created">2020-04-03T08:28:34</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-04T15:11:00</property>
+    <property name="modified">2020-04-14T10:42:31</property>
     <property name="originalScheme">_@user_Darcula</property>
   </metaInfo>
   <colors>
+    <option name="CONSOLE_BACKGROUND_KEY" value="252525" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -23,6 +24,7 @@
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
+    <option name="GUTTER_BACKGROUND" value="171717" />
   </colors>
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -71,6 +73,13 @@
     <option name="PY.SELF_PARAMETER">
       <value>
         <option name="FOREGROUND" value="b266aa" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="aeb5bd" />
+        <option name="BACKGROUND" value="90909" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
