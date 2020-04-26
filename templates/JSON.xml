@@ -19,4 +19,9 @@
       <option name="JSON" value="true" />
     </context>
   </template>
+  <template name="debugLine" value="self.logDebug(f'Line number - {}')" description="set a line used for debugging" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSON" value="true" />
+    </context>
+  </template>
 </templateSet>
