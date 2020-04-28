@@ -35,7 +35,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="32">
+        <list size="33">
           <item index="0" class="java.lang.String" itemvalue="hermes-python" />
           <item index="1" class="java.lang.String" itemvalue="RPi.GPIO" />
           <item index="2" class="java.lang.String" itemvalue="smbus" />
@@ -68,6 +68,7 @@
           <item index="29" class="java.lang.String" itemvalue="flask-socketio" />
           <item index="30" class="java.lang.String" itemvalue="numpy" />
           <item index="31" class="java.lang.String" itemvalue="pyjwt" />
+          <item index="32" class="java.lang.String" itemvalue="python-dateutil" />
         </list>
       </value>
     </option>
