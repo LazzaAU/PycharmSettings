@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df93df98df9adf92df98df9ddf92df9ddf99df9bdf9edf9fdfcedf9fdf92dfc9dfcedfcfdf99df99dfcedf99dfcedfccdfccdfcfdf9edfcfdfcbdf9edfccdf92df9bdf9bdfcbdf9cdfc9df9cdfcedf92</token>
+          <option name="name" value="ProjectAlice" />
+          <enableNotifications>true</enableNotifications>
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
