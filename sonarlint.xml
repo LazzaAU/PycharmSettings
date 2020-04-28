@@ -4,8 +4,9 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df93df98df9adf92df98df9ddf92df9ddf99df9bdf9edf9fdfcedf9fdf92dfc9dfcedfcfdf99df99dfcedf99dfcedfccdfccdfcfdf9edfcfdfcbdf9edfccdf92df9bdf9bdfcbdf9cdfc9df9cdfcedf92</token>
+          <token>df9cdfc9df92df9adf9adf9ddf99dfcedf9fdf9adfc9df9cdf9bdf9fdf9adfcedfccdfccdf9cdfcfdf99df98df9bdfcbdfcbdfc8df98df9fdfcbdf9fdfc8df99df9edfc8dfcfdfcedf9adf9fdf93df92</token>
           <option name="name" value="ProjectAlice" />
+          <organizationKey>lazzaau</organizationKey>
           <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
