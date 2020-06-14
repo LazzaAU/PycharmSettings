@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../skills/Broadcast/VoiceRecorder.py'" />
-    <option name="defaultScopeName" value="File '.../skills/Broadcast/VoiceRecorder.py'" />
-    <option name="SEARCH_SCOPE" value="File '.../skills/Broadcast/VoiceRecorder.py'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.css</mask>
     <mask>*.html</mask>
