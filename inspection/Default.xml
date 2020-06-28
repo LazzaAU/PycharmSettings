@@ -35,7 +35,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="36">
+        <list size="39">
           <item index="0" class="java.lang.String" itemvalue="hermes-python" />
           <item index="1" class="java.lang.String" itemvalue="RPi.GPIO" />
           <item index="2" class="java.lang.String" itemvalue="smbus" />
@@ -72,6 +72,9 @@
           <item index="33" class="java.lang.String" itemvalue="importlib_metadata" />
           <item index="34" class="java.lang.String" itemvalue="pyaudio" />
           <item index="35" class="java.lang.String" itemvalue="webrtcvad" />
+          <item index="36" class="java.lang.String" itemvalue="PyJWT" />
+          <item index="37" class="java.lang.String" itemvalue="wheel" />
+          <item index="38" class="java.lang.String" itemvalue="PyAudio" />
         </list>
       </value>
     </option>
