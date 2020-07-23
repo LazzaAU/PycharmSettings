@@ -93,6 +93,8 @@
         <option value="__future__.*" />
         <option value="google.cloud.speech_v1.types.StreamingRecognitionConfig" />
         <option value="property.setter" />
+        <option value="esptool" />
+        <option value="serial" />
       </list>
     </option>
   </inspection_tool>
