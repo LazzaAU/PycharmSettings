@@ -9,7 +9,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="print" value="print(f'{}')" description="print f string" toReformat="false" toShortenFQNames="true">
+  <template name="print f string" value="print(f'{}')" description="print f string" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
