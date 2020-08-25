@@ -1,0 +1,36 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="192.168.1.150" id="ab02f137-d723-4351-a5ae-912a5b0ec078" port="22" customName="Project Alice - Core dev" nameFormat="CUSTOM">
+        <option name="customName" value="Project Alice - Core dev" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="aliceoffice" id="303b91d9-0496-455a-84a1-578f60110c71" port="22" customName="Alice - Office" nameFormat="CUSTOM">
+        <option name="customName" value="Alice - Office" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="alicebedroom-3" id="bbe68691-59ce-4786-8015-15c5ee7bc8c4" port="22" customName="Alice - Bedroom" nameFormat="CUSTOM">
+        <option name="customName" value="Alice - Bedroom" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="alicelivingroom" id="73947c48-d9f7-4fa2-a8c7-b4e1a70bf3e3" port="22" customName="Alice - Living room" nameFormat="CUSTOM">
+        <option name="customName" value="Alice - Living room" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.160" id="411d534e-a20e-4142-b898-04578a4c1fa2" port="22" customName="Alice - Second room" nameFormat="CUSTOM">
+        <option name="customName" value="Alice - Second room" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.154" id="90df5fc4-f20f-4260-8d50-939bac7c287b" port="22" customName="Matrix Creator" nameFormat="CUSTOM">
+        <option name="customName" value="Matrix Creator" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.164" id="d603bffa-e49c-4b34-be14-dbc3c6094a28" port="22" customName="pi@192.168.1.164:22" nameFormat="CUSTOM">
+        <option name="customName" value="pi@192.168.1.164:22" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.127" id="ef1e1006-b431-407e-8925-6db59d94f754" port="22" customName="pi@192.168.1.127:22" nameFormat="CUSTOM">
+        <option name="customName" value="pi@192.168.1.127:22" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.2.188" id="b1a28139-73be-4e84-8580-e49e6c0e3b3e" port="22" customName="ProjectAlice - Bel-Air" nameFormat="CUSTOM">
+        <option name="customName" value="ProjectAlice - Bel-Air" />
+      </sshConfig>
+      <sshConfig authType="PASSWORD" host="192.168.1.168" id="65690e36-b3d5-4d06-ab53-f95487936e21" port="22" customName="ProjectAliceBuster" nameFormat="CUSTOM">
+        <option name="customName" value="ProjectAliceBuster" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
