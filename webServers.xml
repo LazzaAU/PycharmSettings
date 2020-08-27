@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b731be3b-2ac7-4d35-866e-79c5fd4a7dde" name="TestAlice" url="http://10.0.1.169">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="10.0.1.169" port="22" sshConfigId="bbe68691-59ce-4786-8015-15c5ee7bc8c4" sshConfig="pi@10.0.1.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
