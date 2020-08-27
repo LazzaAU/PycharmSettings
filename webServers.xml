@@ -1,7 +1,28 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b731be3b-2ac7-4d35-866e-79c5fd4a7dde" name="TestAlice" url="http://10.0.1.169">
+      <webServer id="b731be3b-2ac7-4d35-866e-79c5fd4a7dde" name="TestSkills" url="http://10.0.1.169">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="10.0.1.169" port="22" sshConfigId="bbe68691-59ce-4786-8015-15c5ee7bc8c4" sshConfig="pi@10.0.1.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="51608be9-61b2-49c1-934f-50ac8396766e" name="AliceSkills" url="http://10.0.1.230">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="10.0.1.169" port="22" sshConfigId="bbe68691-59ce-4786-8015-15c5ee7bc8c4" sshConfig="pi@10.0.1.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e5a82ee1-5dfd-4130-9638-12983f8b448a" name="AliceMainDir" url="http://10.0.1.230">
+        <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="10.0.1.169" port="22" sshConfigId="bbe68691-59ce-4786-8015-15c5ee7bc8c4" sshConfig="pi@10.0.1.169:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="40d63289-132f-4338-b571-6a252b662473" name="TestMainDir" url="http://10.0.1.169">
         <fileTransfer rootFolder="/home/pi" accessType="SFTP" host="10.0.1.169" port="22" sshConfigId="bbe68691-59ce-4786-8015-15c5ee7bc8c4" sshConfig="pi@10.0.1.169:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
