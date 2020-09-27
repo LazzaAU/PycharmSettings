@@ -97,7 +97,6 @@
         <option value="property.setter" />
         <option value="esptool" />
         <option value="serial" />
-        <option value="super.onStop" />
       </list>
     </option>
   </inspection_tool>
