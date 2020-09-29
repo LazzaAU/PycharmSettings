@@ -35,7 +35,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="41">
+        <list size="42">
           <item index="0" class="java.lang.String" itemvalue="hermes-python" />
           <item index="1" class="java.lang.String" itemvalue="RPi.GPIO" />
           <item index="2" class="java.lang.String" itemvalue="smbus" />
@@ -77,6 +77,7 @@
           <item index="38" class="java.lang.String" itemvalue="PyAudio" />
           <item index="39" class="java.lang.String" itemvalue="pytz" />
           <item index="40" class="java.lang.String" itemvalue="pympler" />
+          <item index="41" class="java.lang.String" itemvalue="Flask-Cors" />
         </list>
       </value>
     </option>
