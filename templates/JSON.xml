@@ -14,7 +14,7 @@
       <option name="JSON" value="true" />
     </context>
   </template>
-  <template name="talkDef" value="&quot;heading&quot;: {&#10;&#9;&quot;default&quot;: [&#10;&#9;&#9;&quot;&quot;,&#10;&#9;&#9;&quot;&quot;&#10;&#9;],&#10;&#9;&quot;short&quot;: [&#10;&#9;&#9;&quot;&quot;,&#10;&#9;&#9;&quot;&quot;&#10;&#9;]&#10;}" description="Add talk code" toReformat="false" toShortenFQNames="true">
+  <template name="talkDef" value="&quot;heading&quot;: {&#10;&#9;&quot;default&quot;: [&#10;&#9;&#9;&quot;&quot;&#10;&#9;],&#10;&#9;&quot;short&quot;: [&#10;&#9;&#9;&quot;&quot;&#10;&#9;]&#10;}" description="Add talk code" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JSON" value="true" />
     </context>
