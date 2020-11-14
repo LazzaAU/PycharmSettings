@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="en.json" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -11,7 +12,7 @@
     <mask>*.md</mask>
     <mask>*.install</mask>
     <mask>README.md</mask>
-    <mask>en.json</mask>
     <mask>*.py</mask>
+    <mask>en.json</mask>
   </component>
 </application>
