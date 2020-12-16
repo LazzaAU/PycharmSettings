@@ -1,0 +1,171 @@
+{
+	"outside": {
+		"en": [
+			"outside"
+		],
+		"fr": [
+			"dehors"
+		],
+		"de": [
+			"draussen"
+		],
+		"it": [
+			"fuori"
+		]
+	},
+	"intentSeparator": {
+		"en": [
+			" and also "
+		],
+		"fr": [
+			" et aussi "
+		],
+		"de": [
+			" und auch "
+		],
+		"it": [
+			" ed anche "
+		]
+	},
+	"inThe": {
+		"en": [
+			"in the room ",
+			"in the ",
+			"in room ",
+			"in "
+		],
+		"fr": [
+			"dans la pièce ",
+			"dans la ",
+			"dans le ",
+			"au "
+		],
+		"de": [
+			"in dem Raum ",
+			"in dem ",
+			"in Raum ",
+			"in "
+		],
+		"it": [
+			"nella ",
+			"nello ",
+			"nel ",
+			"nei ",
+			"dentro ",
+			"in "
+		]
+	},
+	"everywhere": {
+		"en": [
+			"everywhere"
+		],
+		"fr": [
+			"partout"
+		],
+		"de": [
+			"überall"
+		],
+		"it": [
+			"dappertutto",
+			"ovunque"
+		]
+	},
+	"+": {
+		"en": [
+			"plus"
+		],
+		"fr": [
+			"plus"
+		],
+		"de": [
+			"plus"
+		],
+		"it": [
+			"più"
+		]
+	},
+	"-": {
+		"en": [
+			"minus"
+		],
+		"fr": [
+			"moins"
+		],
+		"de": [
+			"minus"
+		],
+		"it": [
+			"meno"
+		]
+	},
+	"*": {
+		"en": [
+			"times"
+		],
+		"fr": [
+			"fois"
+		],
+		"de": [
+			"mal"
+		],
+		"it": [
+			"per"
+		]
+	},
+	"/": {
+		"en": [
+			"divided by"
+		],
+		"fr": [
+			"divisé par"
+		],
+		"de": [
+			"geteilt durch"
+		],
+		"it": [
+			"diviso"
+		]
+	},
+	"%": {
+		"en": [
+			"modulo"
+		],
+		"fr": [
+			"modulo"
+		],
+		"de": [
+			"modulo"
+		],
+		"it": [
+			"modulo"
+		]
+	},
+	"cancelIntent": {
+		"en": [
+			"cancel",
+			"stop",
+			"shut up",
+			"silence"
+		],
+		"fr": [
+			"annule",
+			"annuler",
+			"stop",
+			"tais-toi",
+			"ta gueule"
+		],
+		"de": [
+			"abbrechen",
+			"annulieren",
+			"annuliere",
+			"ruhe",
+			"klappe zu"
+		],
+		"it": [
+			"annulla",
+			"sta 'zitto",
+			"silenzio"
+		]
+	}
+}
+
