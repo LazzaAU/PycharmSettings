@@ -12,5 +12,6 @@
     <mask>*.install</mask>
     <mask>README.md</mask>
     <mask>*.py</mask>
+    <mask>en.json</mask>
   </component>
 </application>
