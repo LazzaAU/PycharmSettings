@@ -1,13 +1,12 @@
 <application>
   <component name="SonarLintGlobalSettings">
-    <option name="nodejsPath" value="" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonarcloud.io" />
-          <token>df9cdfc9df92df9adf9adf9ddf99dfcedf9fdf9adfc9df9cdf9bdf9fdf9adfcedfccdfccdf9cdfcfdf99df98df9bdfcbdfcbdfc8df98df9fdfcbdf9fdfc8df99df9edfc8dfcfdfcedf9adf9fdf93df92</token>
+          <token>df9adf9cdf9adf93df99dfcbdf99df98df9cdfcbdf92df92dfcbdf99dfccdf9adfccdf9bdfc8dfccdf92dfccdf92df9cdfcedf9ddfcbdf9bdfccdf93dfc8dfcfdf9cdfc8df92df99df92dfcbdfc9dfc9</token>
           <option name="name" value="ProjectAlice" />
-          <organizationKey>lazzaau</organizationKey>
+          <organizationKey>project-alice-assistant</organizationKey>
           <enableNotifications>true</enableNotifications>
         </SonarQubeServer>
       </list>
