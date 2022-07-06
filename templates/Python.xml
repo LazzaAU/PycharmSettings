@@ -2,6 +2,7 @@
   <template name="super" value="super().$method$($end$)" description="'super(...)' call" toReformat="false" toShortenFQNames="true">
     <variable name="method" expression="pyFunctionName()" defaultValue="" alwaysStopAt="false" />
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
   <template name="print blank line" value="print(&quot;&quot;)" description="print blank line" toReformat="false" toShortenFQNames="true">
     <context>
