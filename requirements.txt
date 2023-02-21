@@ -1,4 +1,4 @@
-wheel==0.34.2
+wheel==0.38.1
 python-dateutil==2.8.0
 paho-mqtt==1.5.0
 requests==2.21.0
